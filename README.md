@@ -1,7 +1,6 @@
 # just-another-text-editor
 
-
-https://safe-earth-76049.herokuapp.com/
+https://damp-sea-79721.herokuapp.com/
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -21,7 +20,7 @@ https://safe-earth-76049.herokuapp.com/
 
 ## Description
 
-
+JATE is a text editor that is meant to be simple to use, and accessible even when offline.
 
 
 ## Criteria
