@@ -1,5 +1,6 @@
 # just-another-text-editor
 
+Visit the deployed web application at: 
 https://damp-sea-79721.herokuapp.com/
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -20,7 +21,7 @@ https://damp-sea-79721.herokuapp.com/
 
 ## Description
 
-JATE is a text editor that is meant to be simple to use, and accessible even when offline.
+JATE is a text editor that is meant to be simple to use, and accessible even when offline. The user is able to create notes or code snippets with or without internet connection so they can always be able to retrieve them at a later date. This is designed to be a single-page application that meets PWA criteria.
 
 
 ## Criteria
@@ -56,7 +57,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation
 
-The user will need to clone down the repository and then run `npm install` to get all the necessary packages for the app to work on the local machine. Please reference the package.json file outside of all the folders to reference how to run the client, server, and webpack.
+The user will need to clone down the repository and then run `npm install` in the terminal to get all the necessary packages for the app to work on their local machine. Please reference the package.json file outside of all the folders to see how to run the client, server, and webpack.
 
 If the new user would like to deploy their own link, the original was deployed through Heroku.
 
