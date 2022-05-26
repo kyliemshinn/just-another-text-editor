@@ -1,7 +1,11 @@
 {
-  "name": "jate",
+  "name": "text-editor",
   "version": "1.0.0",
-  "description": "A text editor application",
+  "engines:": {
+    "node": "14.17.3",
+    "npm": "6.14.13"
+  },
+  "description": "just another text editor",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
@@ -12,7 +16,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "Kylie Shinn",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
